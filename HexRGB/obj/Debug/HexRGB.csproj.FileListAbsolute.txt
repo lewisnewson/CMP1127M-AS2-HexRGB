@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\HexRGB\HexRGB\bin\Debug\HexRGB.exe.config
+C:\Users\Student\source\repos\HexRGB\HexRGB\bin\Debug\HexRGB.exe
+C:\Users\Student\source\repos\HexRGB\HexRGB\bin\Debug\HexRGB.pdb
+C:\Users\Student\source\repos\HexRGB\HexRGB\obj\Debug\HexRGB.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\HexRGB\HexRGB\obj\Debug\HexRGB.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\HexRGB\HexRGB\obj\Debug\HexRGB.exe
+C:\Users\Student\source\repos\HexRGB\HexRGB\obj\Debug\HexRGB.pdb
+C:\Users\Student\Downloads\HexRGB\HexRGB\bin\Debug\HexRGB.exe.config
+C:\Users\Student\Downloads\HexRGB\HexRGB\bin\Debug\HexRGB.exe
+C:\Users\Student\Downloads\HexRGB\HexRGB\bin\Debug\HexRGB.pdb
+C:\Users\Student\Downloads\HexRGB\HexRGB\obj\Debug\HexRGB.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\HexRGB\HexRGB\obj\Debug\HexRGB.csproj.CoreCompileInputs.cache
+C:\Users\Student\Downloads\HexRGB\HexRGB\obj\Debug\HexRGB.exe
+C:\Users\Student\Downloads\HexRGB\HexRGB\obj\Debug\HexRGB.pdb

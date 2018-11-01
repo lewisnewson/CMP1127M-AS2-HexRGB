@@ -49,10 +49,26 @@ namespace HexRGB
 				Console.WriteLine("Inverted:");
 				Console.WriteLine("#{0} ({1}, {2}, {3}) \n", invertedHex.ToUpper(), iR, iG, iB);
 				// User the original values to generate a greyscale version
-				var greyscale = (values[0] + values[1] + values[2]) / 3;
+				decimal greyscale = (values[0] + values[1] + values[2]) / 3;
 				// Output the greyscale value
 				Console.WriteLine("Greyscale Value:");
 				Console.WriteLine("{0} \n", greyscale);
+				// Ask theuser for a threshold value
+				Console.Write("Please enter a threshold value percentage from 0-100: ");
+				// Parse the input as an integer and assign it to a variable
+				int thresholdVal = int.Parse(Console.ReadLine());
+				// Work out the percentage difference
+				decimal percentageDiff = greyscale / 255 * 100;
+				// If the difference is less than the threshold, the value becomes white
+				if (percentageDiff <= thresholdVal)
+				{
+					Console.WriteLine("Color converted to Black (0)");
+				}
+				// Otherwise it'll become black
+				else
+				{
+					Console.WriteLine("Color converted to White (255)");
+				}
 			}
 
 			// Pause the program
